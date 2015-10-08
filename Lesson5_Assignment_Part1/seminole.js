@@ -3,7 +3,7 @@
 //  Program name: Seminole Trojans
 //  Program topics: Variables, Functions, Arrays, Loops
 //  Author: Cassidy Fishman
-//  Date: 10/03/2015
+//  Date: 10/08/2015
 //  Filename: seminole.js
 
 // global variables
